@@ -1,6 +1,6 @@
 import "./App.css";
-import HTML from "./HTML";
-import CSS from "./CSS";
+import HTML from "./components/HTML";
+import CSS from "./components/CSS";
 
 function App() {
     return (
